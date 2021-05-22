@@ -1,0 +1,17 @@
+.navbar {
+  height: 3rem;
+  width: 100vw;
+  background-color: #141414;
+  color: #fff;
+}
+
+.container {
+  max-width: 1200px;
+  height: 100%;
+  padding: 0rem 2rem;
+  display: flex;
+  align-items: center;
+  li {
+    margin: 0 2rem;
+  }
+}
